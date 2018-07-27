@@ -3,9 +3,9 @@ import email
 
 host = 'smtp.googlemail.com'
 port = 587
-username = 'shivammaggu1@gmail.com'
-password = '2727SHIVAMmaggu2727'
-sendto = ['shivammaggu1@gmail.com']
+username = 'XXXXXXXXXXXXX@gmail.com'
+password = 'XXXXXXXXXX'
+sendto = ['name@servername.com']
 body = 'hi there'
 
 con = smtplib.SMTP(host , port)
